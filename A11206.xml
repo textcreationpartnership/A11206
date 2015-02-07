@@ -130,7 +130,10 @@
             <p>¶Here foloweth a goostly pamphlete or mater co<g ref="char:cmbAbbrStroke">̄</g>
                <g ref="char:EOLunhyphen"/>pendyously extract of holy scrypture / and doctours of y<hi rend="sup">e</hi> chyrche / called y<hi rend="sup">e</hi> ymage of Loue / very necessary for all vertuous persones to / loke vpon.</p>
             <figure/>
-            <figure/>
+            <p>
+               <pb facs="tcp:11205:2"/>
+               <figure/>
+            </p>
          </div>
       </front>
       <body>
